@@ -1,0 +1,35 @@
+{
+    "tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Character Overview",
+                "content": {
+                    "type": "map",
+                    "maps": ["Character Overview"]
+                }
+            },
+            {
+                "title": "Hero Level Overview",
+                "content": {
+                    "type": "map",
+                    "maps": ["Hero Level Overview"]
+                }
+            },
+            {
+                "title": "Villain Level Overview",
+                "content": {
+                    "type": "map",
+                    "maps": ["Villain Level Overview"]
+                }
+            },
+            {
+                "title": "Red Bricks Overview",
+                "content": {
+                    "type": "map",
+                    "maps": ["Red Bricks Overview"]
+                }
+            }
+        ]
+    }
+}

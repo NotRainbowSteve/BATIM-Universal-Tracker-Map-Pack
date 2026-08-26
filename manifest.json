@@ -1,0 +1,17 @@
+{
+    "name": "Bendy And The Archipelago Machine",
+    "game_name": "Bendy and the Ink Machine",
+    "package_version": "1.0.0",
+    "package_uid": "batim_ap",
+    "author": "NotRainbowSteve (Rainbow)",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0",
+    "target_poptracker_version": "0.31.0"
+}
