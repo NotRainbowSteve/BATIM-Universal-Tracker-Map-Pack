@@ -3,31 +3,38 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Character Overview",
+                "title": "Chapter 1",
                 "content": {
                     "type": "map",
-                    "maps": ["Character Overview"]
+                    "maps": ["Chapter 1"]
                 }
             },
             {
-                "title": "Hero Level Overview",
+                "title": "Chapter 2",
                 "content": {
                     "type": "map",
-                    "maps": ["Hero Level Overview"]
+                    "maps": ["Chapter 2"]
                 }
             },
             {
-                "title": "Villain Level Overview",
+                "title": "Chapter 3",
                 "content": {
                     "type": "map",
-                    "maps": ["Villain Level Overview"]
+                    "maps": ["Chapter 3"]
                 }
             },
             {
-                "title": "Red Bricks Overview",
+                "title": "Chapter 4",
                 "content": {
                     "type": "map",
-                    "maps": ["Red Bricks Overview"]
+                    "maps": ["Chapter 4"]
+                }
+            },
+            {
+                "title": "Chapter 5",
+                "content": {
+                    "type": "map",
+                    "maps": ["Chapter 5"]
                 }
             }
         ]

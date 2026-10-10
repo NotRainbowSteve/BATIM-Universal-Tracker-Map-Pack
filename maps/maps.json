@@ -1,30 +1,37 @@
 [
     {
-        "name": "Hero Level Overview",
-        "img": "/images/maps/hero_level_overview.png",
-        "img_size": [3823, 2274],
+        "name": "Chapter 1",
+        "img": "/images/maps/ch1_overview.jpg",
+        "img_size": [500, 268],
+        "location_size": 15,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "Chapter 2",
+        "img": "/images/maps/ch2_overview.jpg",
+        "img_size": [300, 512],
         "location_size": 50,
         "location_border_thickness": 1
     },
     {
-        "name": "Villain Level Overview",
-        "img": "/images/maps/villain_level_overview.png",
-        "img_size": [3823, 2274],
+        "name": "Chapter 3",
+        "img": "/images/maps/ch3_overview.png",
+        "img_size": [5385, 5537],
         "location_size": 50,
         "location_border_thickness": 1
     },
     {
-        "name": "Character Overview",
-        "img": "/images/maps/character_overview.png",
-        "img_size": [1047, 708],
-        "location_size": 25,
+        "name": "Chapter 4",
+        "img": "/images/maps/ch4_overview.jpg",
+        "img_size": [2684, 2392],
+        "location_size": 40,
         "location_border_thickness": 1
     },
     {
-        "name": "Red Bricks Overview",
-        "img": "/images/maps/red_bricks_overview.png",
-        "img_size": [1920, 1080],
-        "location_size": 50,
+        "name": "Chapter 5",
+        "img": "/images/maps/ch5_overview.jpg",
+        "img_size": [1449, 1635],
+        "location_size": 30,
         "location_border_thickness": 1
     }
 ]

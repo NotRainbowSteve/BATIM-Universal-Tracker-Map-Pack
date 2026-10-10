@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Boris Room",
+        "map_locations": [{"map":"Chapter 1", "x": 418, "y": 37}],
+        "sections": [
+            {"name":"CH1 Ritual Item - Wrench"},
+            {"name":"CH1 theMeatly"}
+        ]
+    },
+    {
+        "name": "Hallway Closet",
+        "map_locations": [{"map":"Chapter 1", "x": 332, "y": 99}],
+        "sections": [
+            {"name":"CH1 Bacon Soup - Hallway Closet #1"},
+            {"name":"CH1 Bacon Soup - Hallway Closet #2"},
+            {"name":"CH1 Bacon Soup - Hallway Closet #3"},
+            {"name":"CH1 Bacon Soup - Hallway Closet #4"},
+            {"name":"CH1 Bacon Soup - Hallway Shelf"},
+            {"name":"CH1 Audio Log - Wally Franks (Hallway Table)"}
+        ]
+    },
+    {
+        "name": "Theater",
+        "map_locations": [{"map":"Chapter 1", "x": 314, "y": 19}],
+        "sections": [
+            {"name":"CH1 Ritual Item - Doll"},
+            {"name":"CH1 Bacon Soup - Theater Top Shelf #1"},
+            {"name":"CH1 Bacon Soup - Theater Top Shelf #2"},
+            {"name":"CH1 Bacon Soup - Theater Top Shelf #3"},
+            {"name":"CH1 Bacon Soup - Under the Theater’s Projector"}
+        ]
+    },
+    {
+        "name": "Projector Closet",
+        "map_locations": [{"map":"Chapter 1", "x": 254, "y": 36}],
+        "sections": [{"name":"CH1 Bacon Soup - Projector Closet"}]
+    },
+    {
+        "name": "Music Room",
+        "map_locations": [{"map":"Chapter 1", "x": 314, "y": 142}],
+        "sections": [
+            {"name":"CH1 Radio"},
+            {"name":"CH1 Ritual Item - Record"},
+            {"name":"CH1 Bacon Soup - Music Room Top Shelf"},
+            {"name":"CH1 Bacon Soup - Music Room Bottom Shelf"}
+        ]
+    },
+    {
+        "name": "Break Room",
+        "map_locations": [{"map":"Chapter 1", "x": 318, "y": 187}],
+        "sections": [
+            {"name":"CH1 Ritual Item - Book"},
+            {"name":"CH1 Bacon Soup - Break Room Closet #1"},
+            {"name":"CH1 Bacon Soup - Break Room Closet #2"},
+            {"name":"CH1 Bacon Soup - Break Room Closet #3"},
+            {"name":"CH1 Bacon Soup - Break Room Closet #4"},
+            {"name":"CH1 Bacon Soup - Break Room Closet #5"}
+        ]
+    },
+    {
+        "name": "Workshop Entrance Dresser",
+        "map_locations": [{"map":"Chapter 1", "x": 267, "Y": 124}],
+        "sections": [{"name":"CH1 Bacon Soup - Dresser by Workshop Entrance"}]
+    },
+    {
+        "name": "Foyer Projector",
+        "map_locations": [{"map":"Chapter 1", "x": 311, "y": 61}],
+        "sections": [{"name":"CH1 Bacon Soup - Under the Foyer Projector"}]
+    },
+    {
+        "name": "Writer's Room",
+        "map_locations": [{"map":"Chapter 1", "x": 124, "y": 54}],
+        "sections": [{"name":"CH1 Ritual Item - Inkwell"}]
+    },
+    {
+        "name": "Ink Machine",
+        "map_locations": [{"map":"Chapter 1", "x": 403, "y": 172}],
+        "sections": [{"name":"CH1 Ritual Item - Gear"}]
+    }
+]
