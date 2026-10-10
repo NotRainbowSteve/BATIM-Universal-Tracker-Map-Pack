@@ -10,7 +10,7 @@
         "name": "Chapter 2",
         "img": "/images/maps/ch2_overview.jpg",
         "img_size": [300, 512],
-        "location_size": 50,
+        "location_size": 15,
         "location_border_thickness": 1
     },
     {

@@ -59,12 +59,12 @@
     },
     {
         "name": "Workshop Entrance Dresser",
-        "map_locations": [{"map":"Chapter 1", "x": 267, "Y": 124}],
+        "map_locations": [{"map":"Chapter 1", "x": 267, "y": 124}],
         "sections": [{"name":"CH1 Bacon Soup - Dresser by Workshop Entrance"}]
     },
     {
         "name": "Foyer Projector",
-        "map_locations": [{"map":"Chapter 1", "x": 311, "y": 61}],
+        "map_locations": [{"map":"Chapter 1", "x": 211, "y": 61}],
         "sections": [{"name":"CH1 Bacon Soup - Under the Foyer Projector"}]
     },
     {
@@ -76,5 +76,138 @@
         "name": "Ink Machine",
         "map_locations": [{"map":"Chapter 1", "x": 403, "y": 172}],
         "sections": [{"name":"CH1 Ritual Item - Gear"}]
+    },
+    {
+        "name": "Ink Power",
+        "map_locations": [{"map":"Chapter 1", "x": 450, "y": 111}],
+        "sections": [{"name":"CH1 Checkpoint - Bendy Chase"}]
+    },
+    {
+        "name": "Flooded Basement",
+        "map_locations": [{"map":"Chapter 1", "x": 164, "y": 152}],
+        "sections": [
+            {"name":"CH1 Bacon Soup - Flooded Basement"},
+            {"name":"CH1 Audio Log - Thomas Connor (Flooded Basement)"}
+        ]
+    },
+    {
+        "name": "Ritual Room",
+        "map_locations": [{"map":"Chapter 1", "x": 33, "y": 175}],
+        "sections": [
+            {"name":"CH1 Bacon Soup - Ritual Room"},
+            {"name":"CH1 Complete"}
+        ]
+    },
+    {
+        "name": "Can I Get An Amen?",
+        "map_locations": [{"map":"Chapter 2", "x": 122, "y":395}],
+        "sections": [
+            {"name":"CH2 Audio Log - Sammy Lawrence (Can I Get An Amen?)"},
+            {"name":"CH2 Bacon Soup - Set Us Free #1"},
+            {"name":"CH2 Bacon Soup - Set Us Free #2"},
+            {"name":"CH2 Bacon Soup - Set Us Free #3"}
+        ]
+    },
+    {
+        "name": "Before Department Entrnce",
+        "map_locations": [{"map":"Chapter 2", "x": 135, "y": 305}],
+        "sections": [
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #1"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #2"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #3"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #4"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #5"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #6"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #7"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #8"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #9"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #10"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #11"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #12"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #13"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #14"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #15"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #16"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #17"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #18"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #19"},
+            {"name":"CH2 Bacon Soup - Shelf Before Department Entrance #20"}
+        ]
+    },
+    {
+        "name": "Music Department Lobby",
+        "map_locations": [{"map":"Chapter 2", "x": 167, "y":273}],
+        "sections": [{"name":"CH2 Audio Log - Sammy Lawrence (Music Department Lobby)"}]
+    },
+    {
+        "name": "Writer's Room",
+        "map_locations": [{"map":"Chapter 2", "x": 121, "y": 240}],
+        "sections": [
+            {"name":"CH2 Bacon Soup - Writer’s Desk"},
+            {"name":"CH2 theMeatly"}
+        ]
+    },
+    {
+        "name": "Outside Sammy's Office",
+        "map_locations": [{"map":"Chapter 2", "x": 102, "y": 268}],
+        "sections": [
+            {"name":"CH2 Lost Keys"},
+            {"name":"CH2 Audio Log - Wally Franks (Sammy’s Office)"}
+        ]
+    },
+    {
+        "name": "Closet",
+        "map_locations": [{"map":"Chapter 2", "x": 97, "y": 242}],
+        "sections": [
+            {"name":"CH2 Audio Log - Sammy Lawrence (Wally’s Closet)"},
+            {"name":"CH2 Bacon Soup - Wally’s Closet #1"},
+            {"name":"CH2 Bacon Soup - Wally’s Closet #2"},
+            {"name":"CH2 Bacon Soup - Wally’s Closet #3"},
+            {"name":"CH2 Bacon Soup - Wally’s Closet #4"}
+        ]
+    },
+    {
+        "name": "Recording Studio",
+        "map_locations": [{"map":"Chapter 2", "x": 173, "y": 202}],
+        "sections": [{"name":"CH2 Audio Log - Susie Campbell (Recording Studio)"}]
+    },
+    {
+        "name": "Jack Fain",
+        "map_locations": [{"map":"Chapter 2", "x": 93, "y": 365}],
+        "sections": [
+            {"name":"CH2 Audio Log - Jack Fain (Desk in Sewers)"},
+            {"name":"CH2 Bacon Soup - Jack Fain’s Desk"}
+        ]
+    },
+    {
+        "name": "CH2 Valve",
+        "map_locations": [{"map":"Chapter 2", "x": 15, "y": 366}],
+        "sections": [{"name":"CH2 Sewer Valve"}]
+    },
+    {
+        "name": "Projector",
+        "map_locations": [{"map":"Chapter 2", "x": 183, "y": 221}],
+        "sections": [{"name":"CH2 Audio Log - Norman Polk (Projector)"}]
+    },
+    {
+        "name": "Sammy's Office",
+        "map_locations": [{"map":"Chapter 2", "x": 86, "y": 263}],
+        "sections": [
+            {"name":"CH2 Radio"},
+            {"name":"CH2 Checkpoint - Sammy's Office"}
+        ]
+    },
+    {
+        "name": "Scrifice to the GOD",
+        "map_locations": [{"map":"Chapter 2", "x": 253, "y": 240}],
+        "sections": [{"name":"CH2 Bacon Soup - Sammy’s Sacrifice Room"}]
+    },
+    {
+        "name": "Hello Bendy",
+        "map_locations": [{"map":"Chapter 2", "x": 171, "y": 41}],
+        "sections": [
+            {"name":"CH2 Bacon Soup - After Bendy Chase"},
+            {"name":"CH2 Complete"}
+        ]
     }
 ]
